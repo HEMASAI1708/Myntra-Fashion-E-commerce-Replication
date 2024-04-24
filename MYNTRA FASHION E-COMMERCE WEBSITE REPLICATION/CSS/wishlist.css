@@ -1,0 +1,33 @@
+/* Style for heading nav bar */
+
+/* profile, wishlist and cart symbols style */
+.symbols {
+    display: flex;
+    box-sizing: inherit;
+    text-indent: 50px;
+    text-decoration: none;
+  }
+  
+  .symbols li {
+    list-style-type: none;
+  }
+
+  /* Color of the nav bar */
+  .nav-item a {
+    color: grey;
+  }
+
+/*  */
+  .desktop-shopLinks a {
+    text-decoration: none;
+    display: flex;
+    flex-direction: column;
+    display: block;
+    ;
+  }
+  
+  .navbox {
+    /* border: 1px solid red; */
+    background-color: rgba(245, 255, 255, 0.758);
+  }
+  

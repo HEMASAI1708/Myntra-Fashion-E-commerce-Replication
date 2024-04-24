@@ -1,0 +1,53 @@
+.symbols {
+    display: flex;
+    box-sizing: inherit;
+    text-indent: 50px;
+    text-decoration: none;
+  }
+  
+  .symbols li {
+    list-style-type: none;
+  }
+  .nav-item a {
+    color: grey;
+  }
+  
+  .desktop-shopLinks a {
+    text-decoration: none;
+    display: flex;
+    flex-direction: column;
+    display: block;
+  }
+  
+  .navbox {
+    /* border: 1px solid red; */
+    background-color: rgba(245, 255, 255, 0.758);
+  }
+  
+  /* CSS FOR ABOUT US CONTENT */
+
+  .audeets{
+    /* border: 1px solid red; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 5vh 10vw;
+  }
+  .deets{
+    /* border: 1px solid green; */
+    padding: 10px 0;
+  }
+  .headdeet{
+    padding-bottom: 10px;
+    font-weight: 700;
+  }
+  .deettext{
+    color: grey;
+    font-weight: 600;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 12px;
+  }
+  .audhead{
+    margin-bottom: 20px;
+  }
